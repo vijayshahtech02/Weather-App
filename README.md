@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-Live Link -  https://vijayshahtech02.github.io/Weather-App/
+
 
 A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fetches real-time weather data using an API and displays the temperature based on user input.
 

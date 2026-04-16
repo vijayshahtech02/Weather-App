@@ -6,7 +6,7 @@ let temp = document.querySelector("#temp")
 
 
   let getData  = async (cityName) => {
-    let promise = await fetch(`http://api.weatherapi.com/v1/current.json?key=d5009a0fbee04efdb5c61650261604 &q=${cityName}&aqi=no`);
+    let promise = await fetch(`your_api_key_here`);
    let response = await promise.json();
    return response;
 
